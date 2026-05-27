@@ -1,4 +1,4 @@
-# Phase 1: Neural Network Architecture & Backpropagation
+# Neural Network Architecture & Backpropagation
 
 This repository contains documentation on the fundamental mechanics of Neural Networks, from single-layer perceptrons to deep networks utilizing backpropagation.
 
